@@ -7,7 +7,7 @@
 
 <body>
 
-    <h1>My First Page111</h1>
+    <h1>My First Page11111s</h1>
     <form action="{{route('contact')}}" method="post">
         @csrf
         <label for="fname">First name:</label><br>
